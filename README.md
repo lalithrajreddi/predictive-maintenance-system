@@ -16,3 +16,6 @@ The application is designed to manage service and predictive maintenance activit
 - Eclipse IDE
 - Apache Tomcat
 - MySQL Connector/J
+
+## Notes
+This project is a demo version created for academic and learning purposes. All data used is sample data, and no proprietary or confidential information is included.
